@@ -9,6 +9,9 @@ npm install
 ```
 
 ## Running app
+
 ```
 npm run devstart
 ```
+
+open http://localhost:3000/
